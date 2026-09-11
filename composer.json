@@ -1,0 +1,5 @@
+{
+	"name": "atomicsmash/coho-connector",
+	"description": "Connect WordPress to your COHO account to sync property information and check availability in real time.",
+	"type": "wordpress-plugin"
+}
